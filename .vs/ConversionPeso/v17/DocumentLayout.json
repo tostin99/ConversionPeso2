@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26FA1702-BE81-4083-AEF1-F004E0F89018}|..\\API_Pesos\\API_Pesos\\API_Pesos.csproj|c:\\users\\jtari\\onedrive\\escritorio\\programacion\\codigos\\codigos1\\repos\\repos\\api_pesos\\api_pesos\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FA1702-BE81-4083-AEF1-F004E0F89018}|..\\API_Pesos\\API_Pesos\\API_Pesos.csproj|c:\\users\\jtari\\onedrive\\escritorio\\programacion\\codigos\\codigos1\\repos\\repos\\api_pesos\\api_pesos\\controllers\\weightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FA1702-BE81-4083-AEF1-F004E0F89018}|..\\API_Pesos\\API_Pesos\\API_Pesos.csproj|c:\\users\\jtari\\onedrive\\escritorio\\programacion\\codigos\\codigos1\\repos\\repos\\api_pesos\\api_pesos\\helpers\\weightconversionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FA1702-BE81-4083-AEF1-F004E0F89018}|..\\API_Pesos\\API_Pesos\\API_Pesos.csproj|c:\\users\\jtari\\onedrive\\escritorio\\programacion\\codigos\\codigos1\\repos\\repos\\api_pesos\\api_pesos\\models\\weightparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FA1702-BE81-4083-AEF1-F004E0F89018}|..\\API_Pesos\\API_Pesos\\API_Pesos.csproj|c:\\users\\jtari\\onedrive\\escritorio\\programacion\\codigos\\codigos1\\repos\\repos\\api_pesos\\api_pesos\\api_pesos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FA1702-BE81-4083-AEF1-F004E0F89018}|..\\API_Pesos\\API_Pesos\\API_Pesos.csproj|c:\\users\\jtari\\onedrive\\escritorio\\programacion\\codigos\\codigos1\\repos\\repos\\api_pesos\\api_pesos\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FA1702-BE81-4083-AEF1-F004E0F89018}|..\\API_Pesos\\API_Pesos\\API_Pesos.csproj|c:\\users\\jtari\\onedrive\\escritorio\\programacion\\codigos\\codigos1\\repos\\repos\\api_pesos\\api_pesos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624DEE25-F93D-49FB-B6B1-765CC61B7726}|ConvertBLL\\ConvertBLL.csproj|C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\convertbll\\bll\\pesobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624DEE25-F93D-49FB-B6B1-765CC61B7726}|ConvertBLL\\ConvertBLL.csproj|solutionrelative:convertbll\\bll\\pesobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A8DC65-2203-43E1-ADF6-C4A3480AAE5D}|ConvertDAL\\ConvertDAL.csproj|C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\convertdal\\dal\\pesodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A8DC65-2203-43E1-ADF6-C4A3480AAE5D}|ConvertDAL\\ConvertDAL.csproj|solutionrelative:convertdal\\dal\\pesodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A8DC65-2203-43E1-ADF6-C4A3480AAE5D}|ConvertDAL\\ConvertDAL.csproj|C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\convertdal\\models\\pesoparametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A8DC65-2203-43E1-ADF6-C4A3480AAE5D}|ConvertDAL\\ConvertDAL.csproj|solutionrelative:convertdal\\models\\pesoparametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE837856-6794-4E99-8689-F8B4595A3D78}|PesoPL\\PesoPL.csproj|C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\pesopl\\helpers\\consumeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE837856-6794-4E99-8689-F8B4595A3D78}|PesoPL\\PesoPL.csproj|solutionrelative:pesopl\\helpers\\consumeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE837856-6794-4E99-8689-F8B4595A3D78}|PesoPL\\PesoPL.csproj|C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\pesopl\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE837856-6794-4E99-8689-F8B4595A3D78}|PesoPL\\PesoPL.csproj|solutionrelative:pesopl\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE837856-6794-4E99-8689-F8B4595A3D78}|PesoPL\\PesoPL.csproj|C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\pesopl\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE837856-6794-4E99-8689-F8B4595A3D78}|PesoPL\\PesoPL.csproj|solutionrelative:pesopl\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE837856-6794-4E99-8689-F8B4595A3D78}|PesoPL\\PesoPL.csproj|C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\pesopl\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DE837856-6794-4E99-8689-F8B4595A3D78}|PesoPL\\PesoPL.csproj|solutionrelative:pesopl\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE837856-6794-4E99-8689-F8B4595A3D78}|PesoPL\\PesoPL.csproj|C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\pesopl\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DE837856-6794-4E99-8689-F8B4595A3D78}|PesoPL\\PesoPL.csproj|solutionrelative:pesopl\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 216,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\API_Pesos\\API_Pesos\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\API_Pesos\\API_Pesos\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:43:32.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeightController.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\Controllers\\WeightController.cs",
+              "RelativeDocumentMoniker": "..\\API_Pesos\\API_Pesos\\Controllers\\WeightController.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\Controllers\\WeightController.cs",
+              "RelativeToolTip": "..\\API_Pesos\\API_Pesos\\Controllers\\WeightController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:43:16.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeightConversionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\Helpers\\WeightConversionHelper.cs",
+              "RelativeDocumentMoniker": "..\\API_Pesos\\API_Pesos\\Helpers\\WeightConversionHelper.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\Helpers\\WeightConversionHelper.cs",
+              "RelativeToolTip": "..\\API_Pesos\\API_Pesos\\Helpers\\WeightConversionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:42:54.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "API_Pesos.http",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\API_Pesos.http",
+              "RelativeDocumentMoniker": "..\\API_Pesos\\API_Pesos\\API_Pesos.http",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\API_Pesos.http",
+              "RelativeToolTip": "..\\API_Pesos\\API_Pesos\\API_Pesos.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-29T22:42:46.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\API_Pesos\\API_Pesos\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\API_Pesos\\API_Pesos\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:42:43.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\API_Pesos\\API_Pesos\\Program.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\Program.cs",
+              "RelativeToolTip": "..\\API_Pesos\\API_Pesos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:42:41.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeightParameters.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\Models\\WeightParameters.cs",
+              "RelativeDocumentMoniker": "..\\API_Pesos\\API_Pesos\\Models\\WeightParameters.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\Models\\WeightParameters.cs",
+              "RelativeToolTip": "..\\API_Pesos\\API_Pesos\\Models\\WeightParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:41:32.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\PesoPL\\Index.aspx.designer.cs",
+              "RelativeDocumentMoniker": "PesoPL\\Index.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\PesoPL\\Index.aspx.designer.cs",
+              "RelativeToolTip": "PesoPL\\Index.aspx.designer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:50:40.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\PesoPL\\Web.config",
+              "RelativeDocumentMoniker": "PesoPL\\Web.config",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\PesoPL\\Web.config",
+              "RelativeToolTip": "PesoPL\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-29T21:50:40.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsumeAPI.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\PesoPL\\Helpers\\ConsumeAPI.cs",
+              "RelativeDocumentMoniker": "PesoPL\\Helpers\\ConsumeAPI.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\PesoPL\\Helpers\\ConsumeAPI.cs",
+              "RelativeToolTip": "PesoPL\\Helpers\\ConsumeAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:50:40.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\PesoPL\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "PesoPL\\Index.aspx.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\PesoPL\\Index.aspx.cs",
+              "RelativeToolTip": "PesoPL\\Index.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:50:40.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PesoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\ConvertDAL\\DAL\\PesoDAL.cs",
+              "RelativeDocumentMoniker": "ConvertDAL\\DAL\\PesoDAL.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\ConvertDAL\\DAL\\PesoDAL.cs",
+              "RelativeToolTip": "ConvertDAL\\DAL\\PesoDAL.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:50:40.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PesoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\ConvertBLL\\BLL\\PesoBLL.cs",
+              "RelativeDocumentMoniker": "ConvertBLL\\BLL\\PesoBLL.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\ConvertBLL\\BLL\\PesoBLL.cs",
+              "RelativeToolTip": "ConvertBLL\\BLL\\PesoBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:50:40.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PesoParametros.cs",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\ConvertDAL\\Models\\PesoParametros.cs",
+              "RelativeDocumentMoniker": "ConvertDAL\\Models\\PesoParametros.cs",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\ConvertDAL\\Models\\PesoParametros.cs",
+              "RelativeToolTip": "ConvertDAL\\Models\\PesoParametros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:50:40.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\PesoPL\\Index.aspx",
+              "RelativeDocumentMoniker": "PesoPL\\Index.aspx",
+              "ToolTip": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\ConversionPeso2\\PesoPL\\Index.aspx",
+              "RelativeToolTip": "PesoPL\\Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-29T21:50:41.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

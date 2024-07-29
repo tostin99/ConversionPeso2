@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zRXg2PeGSkKAgkTu9teITJg2Lom+LXE3Or0vXOmFGMnzjOqbxhWOjkaZs/wBkd1mHxb6obhUZrWZeeRK7cJ+Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jtari\\OneDrive\\Escritorio\\Programacion\\Codigos\\codigos1\\repos\\repos\\API_Pesos\\API_Pesos\\API_Pesos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jtari\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jtari\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jtari\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\jtari\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\jtari\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\jtari\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

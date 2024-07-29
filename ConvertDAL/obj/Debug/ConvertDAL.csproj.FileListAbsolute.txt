@@ -1,0 +1,12 @@
+C:\Users\jtari\source\repos\ConversionPeso\ConvertDAL\bin\Debug\ConvertDAL.dll
+C:\Users\jtari\source\repos\ConversionPeso\ConvertDAL\bin\Debug\ConvertDAL.pdb
+C:\Users\jtari\source\repos\ConversionPeso\ConvertDAL\obj\Debug\ConvertDAL.csproj.AssemblyReference.cache
+C:\Users\jtari\source\repos\ConversionPeso\ConvertDAL\obj\Debug\ConvertDAL.csproj.CoreCompileInputs.cache
+C:\Users\jtari\source\repos\ConversionPeso\ConvertDAL\obj\Debug\ConvertDAL.dll
+C:\Users\jtari\source\repos\ConversionPeso\ConvertDAL\obj\Debug\ConvertDAL.pdb
+C:\Users\jtari\OneDrive\Escritorio\Programacion\Codigos\codigos1\repos\repos\ConversionPeso\ConvertDAL\bin\Debug\ConvertDAL.dll
+C:\Users\jtari\OneDrive\Escritorio\Programacion\Codigos\codigos1\repos\repos\ConversionPeso\ConvertDAL\bin\Debug\ConvertDAL.pdb
+C:\Users\jtari\OneDrive\Escritorio\Programacion\Codigos\codigos1\repos\repos\ConversionPeso\ConvertDAL\obj\Debug\ConvertDAL.csproj.AssemblyReference.cache
+C:\Users\jtari\OneDrive\Escritorio\Programacion\Codigos\codigos1\repos\repos\ConversionPeso\ConvertDAL\obj\Debug\ConvertDAL.csproj.CoreCompileInputs.cache
+C:\Users\jtari\OneDrive\Escritorio\Programacion\Codigos\codigos1\repos\repos\ConversionPeso\ConvertDAL\obj\Debug\ConvertDAL.dll
+C:\Users\jtari\OneDrive\Escritorio\Programacion\Codigos\codigos1\repos\repos\ConversionPeso\ConvertDAL\obj\Debug\ConvertDAL.pdb
